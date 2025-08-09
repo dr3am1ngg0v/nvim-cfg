@@ -31,7 +31,7 @@ If there is more reqs that I should include here, you can make a pull request of
 
 ## Installation
 
-Just clone this repo into your nvim config directory. For example, for Arch:
+Just clone this repo into your nvim config directory:
 ```bash
 git clone --branch=master git@github.com:dr3am1ngg0v/nvim-cfg ~/.config/nvim
 or
